@@ -29,7 +29,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.syntel.app.SampleAtomMicroServiceApplication;
 import com.syntel.model.MemberClaimDetail;
 import com.syntel.model.MemberClaimSearchCriteria;
-
+// checking
 /**
  * Test class to verify the REST service call.
  * 1. First test case with autowired REST controller instance
